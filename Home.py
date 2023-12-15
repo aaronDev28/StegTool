@@ -44,7 +44,7 @@ def home():
         "This app is created using Streamlit, a simple and powerful framework for creating web applications with Python."
         "It leverages image processing libraries such as OpenCV and Pillow."
     )
-    st.write("Made with ❤️ by Melbin and Aaron")
+    st.write("Made with ❤️ by Aaron")
 
     st.header("References")
     st.markdown(
